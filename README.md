@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+🔭 A full-time student at LUT-university.
+
+🌱 Languages: Python, SQL
+
+⚡ Gym & running enthusiast
+
 <!--
 **Nikkex1/Nikkex1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
