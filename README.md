@@ -9,7 +9,7 @@ Outside the world of coding and technology, I focus eagerly on personal fitness.
 - I do pull-ups with 25 added kilograms.
 
 ---
-##### Skills
+#### Skills
 
 My current toolset consists of:
 
