@@ -6,10 +6,10 @@ I am Niklas, a BSc in Economics and Business Administration, majoring in Strateg
 Outside the world of coding and technology, I focus eagerly on personal fitness. Here are some of the milestones I am proud of:
 - I follow a lasting, healthy routine encompassing balanced diet, sleep and exercise.
 - I've ran 3000 meters in a Cooper test.
-- I do pull-ups with 25 added kilograms.
+- I do weighted pull-ups with 25 kilograms.
 
 ---
-#### Skills
+### Skills
 
 My current toolset consists of:
 
