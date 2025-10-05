@@ -1,4 +1,4 @@
-[![Gmail](https://img.shields.io/badge/niklas.pulliainen@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:niklas.pulliainen@gmail.com) [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/niklas-pulliainen)
+[![Gmail](https://img.shields.io/badge/niklas.pulliainen@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:niklas.pulliainen@gmail.com)
 ### Hi there 👋
 
 I am Niklas, a BSc in Economics and Business Administration, majoring in Strategic Finance and Business Analytics. I am also taking lessons in computer science, which is a subject I have found interesting since childhood.
@@ -20,6 +20,6 @@ My main tools are Python and Excel for various purposes, such as financial model
 
 After graduation, I am planning to learn:
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white) ![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)
 
-I am interested in delving into open-source and bash-scripting for a more productive workflow. I would also like to learn C to fulfil my long-term dream of a personal game project.
+I am interested in delving into open-source and bash-scripting for a more productive workflow. I would also like to learn C to fulfil my long-term dream of a personal game project and adopt Power BI and DAX to step up my game in data analysis.
